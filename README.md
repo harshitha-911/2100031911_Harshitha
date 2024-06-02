@@ -1,5 +1,5 @@
 # 2100031911_Harshitha
-![logo](https://github.com/harshitha-911/2100031911-Harshitha/blob/main/1001.jpg)
+![1001](https://github.com/harshitha-911/2100031911_Harshitha/assets/110444788/4a992a5f-e75e-419c-a7c3-ca63fb9a168b)
 <h1 align="center">Hi 👋, I'm Raja Harshitha Batchu </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="codig" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
